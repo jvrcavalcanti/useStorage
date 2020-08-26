@@ -1,0 +1,9 @@
+{
+  "name": "use-storeage",
+  "version": "1.0.0",
+  "description": "Use localStorage with json and expires time",
+  "main": "index.js",
+  "repository": "https://github.com/jvrcavalcanti/useStorage.git",
+  "author": "jvrcavalcanti <jonnyvictor01@gmail.com>",
+  "license": "MIT",
+}

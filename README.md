@@ -1,5 +1,5 @@
 ```js
-const { useStoreage } = require('usestoreage');
+const { useStoreage } = require('use-storeage');
 
 storage.set("foo", "bar", 1000); // Milliseconds
 
